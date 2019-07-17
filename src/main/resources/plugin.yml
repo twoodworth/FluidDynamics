@@ -1,0 +1,7 @@
+name: FluidDynamics
+version: 0.0.0
+description: better liquid behavior in minecraft
+authors: [Tedsworth, Kepler]
+
+main: me.tedwoodworth.fluiddynamics.FluidDynamics
+api-version: 1.13
